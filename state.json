@@ -1,26 +1,8 @@
 {
   "consecutive_failures": 0,
-  "last_run": "2026-09-08T22:00:43+00:00",
+  "last_run": "2026-09-09T00:04:40+00:00",
   "seeded": true,
   "showtimes": {
-    "hacienda:2026-09-08+18:10": {
-      "date": "2026-09-08",
-      "status": "disabled",
-      "theater": "Regal Hacienda Crossings (Dublin)",
-      "theater_key": "hacienda",
-      "time": "6:10p",
-      "title": "The Odyssey (2026)",
-      "url": "https://tickets.fandango.com/transaction/ticketing/mobile/jump.aspx?sdate=2026-09-08%2B18%3A10&from=mov_det_showtimes&source=MobileWeb&mid=241386&tid=aaopk&dfam=webbrowser&showtimehashcode=v2-a7669c771b66094516cc66529c1d8d94dc3ddf46633bb5807fc7f8ee0e965833"
-    },
-    "hacienda:2026-09-08+22:10": {
-      "date": "2026-09-08",
-      "status": "disabled",
-      "theater": "Regal Hacienda Crossings (Dublin)",
-      "theater_key": "hacienda",
-      "time": "10:10p",
-      "title": "The Odyssey (2026)",
-      "url": "https://tickets.fandango.com/transaction/ticketing/mobile/jump.aspx?sdate=2026-09-08%2B22%3A10&from=mov_det_showtimes&source=MobileWeb&mid=241386&tid=aaopk&dfam=webbrowser&showtimehashcode=v2-773d0ebec69faa7ff3d4706273e12439b387ec815d6f7697edbcc2d3a6e52d00"
-    },
     "hacienda:2026-09-09+10:10": {
       "date": "2026-09-09",
       "status": "disabled",
@@ -633,23 +615,32 @@
       "title": "The Odyssey (2026)",
       "url": "https://tickets.fandango.com/transaction/ticketing/mobile/jump.aspx?sdate=2026-09-28%2B18%3A10&from=mov_det_showtimes&source=MobileWeb&mid=241386&tid=aaopk&dfam=webbrowser&showtimehashcode=v2-039fb76b5bb4caf866a846d98550f4b3549a81485989181df7a0c46182304c27"
     },
-    "metreon:2026-09-08+18:00": {
-      "date": "2026-09-08",
-      "status": "soldout",
-      "theater": "AMC Metreon 16 (SF)",
-      "theater_key": "metreon",
-      "time": "6:00p",
+    "hacienda:2026-09-29+10:10": {
+      "date": "2026-09-29",
+      "status": "disabled",
+      "theater": "Regal Hacienda Crossings (Dublin)",
+      "theater_key": "hacienda",
+      "time": "10:10a",
       "title": "The Odyssey (2026)",
-      "url": "https://tickets.fandango.com/transaction/ticketing/mobile/jump.aspx?sdate=2026-09-08%2B18%3A00&from=mov_det_showtimes&source=MobileWeb&mid=241386&tid=aanem&dfam=webbrowser&showtimehashcode=v2-c46fc7f7fc79061c452865525af1f08c6bf17e6a9dac2d8c5e1a5ad809e2257b"
+      "url": "https://tickets.fandango.com/transaction/ticketing/mobile/jump.aspx?sdate=2026-09-29%2B10%3A10&from=mov_det_showtimes&source=MobileWeb&mid=241386&tid=aaopk&dfam=webbrowser&showtimehashcode=v2-2903804fbb4c76b6227afc247926614c461de1c3bed19d2647d4d28062b366e3"
     },
-    "metreon:2026-09-08+22:00": {
-      "date": "2026-09-08",
-      "status": "available",
-      "theater": "AMC Metreon 16 (SF)",
-      "theater_key": "metreon",
-      "time": "10:00p",
+    "hacienda:2026-09-29+14:10": {
+      "date": "2026-09-29",
+      "status": "disabled",
+      "theater": "Regal Hacienda Crossings (Dublin)",
+      "theater_key": "hacienda",
+      "time": "2:10p",
       "title": "The Odyssey (2026)",
-      "url": "https://tickets.fandango.com/transaction/ticketing/mobile/jump.aspx?sdate=2026-09-08%2B22%3A00&from=mov_det_showtimes&source=MobileWeb&mid=241386&tid=aanem&dfam=webbrowser&showtimehashcode=v2-c4f0e61578dfafd0d6a023b540383476224351871a4054142e3b08a62d7ae492"
+      "url": "https://tickets.fandango.com/transaction/ticketing/mobile/jump.aspx?sdate=2026-09-29%2B14%3A10&from=mov_det_showtimes&source=MobileWeb&mid=241386&tid=aaopk&dfam=webbrowser&showtimehashcode=v2-05e6cad07f72eb6efec129131c88b3ef127accdb41f0c359430efaec4f68c5e8"
+    },
+    "hacienda:2026-09-29+18:10": {
+      "date": "2026-09-29",
+      "status": "disabled",
+      "theater": "Regal Hacienda Crossings (Dublin)",
+      "theater_key": "hacienda",
+      "time": "6:10p",
+      "title": "The Odyssey (2026)",
+      "url": "https://tickets.fandango.com/transaction/ticketing/mobile/jump.aspx?sdate=2026-09-29%2B18%3A10&from=mov_det_showtimes&source=MobileWeb&mid=241386&tid=aaopk&dfam=webbrowser&showtimehashcode=v2-dfcd430f4e0be1033f4d793267820d1cdb839b3704f8bfc676520ecad245bae5"
     },
     "metreon:2026-09-09+10:00": {
       "date": "2026-09-09",
@@ -1100,6 +1091,33 @@
       "time": "10:00p",
       "title": "The Odyssey (2026)",
       "url": "https://tickets.fandango.com/transaction/ticketing/mobile/jump.aspx?sdate=2026-09-28%2B22%3A00&from=mov_det_showtimes&source=MobileWeb&mid=241386&tid=aanem&dfam=webbrowser&showtimehashcode=v2-905e9c0d358313b9800067741cf2fd037cd96df8fa890c27e747612bbbf9b5e0"
+    },
+    "metreon:2026-09-29+14:00": {
+      "date": "2026-09-29",
+      "status": "available",
+      "theater": "AMC Metreon 16 (SF)",
+      "theater_key": "metreon",
+      "time": "2:00p",
+      "title": "The Odyssey (2026)",
+      "url": "https://tickets.fandango.com/transaction/ticketing/mobile/jump.aspx?sdate=2026-09-29%2B14%3A00&from=mov_det_showtimes&source=MobileWeb&mid=241386&tid=aanem&dfam=webbrowser&showtimehashcode=v2-b17d1319c75b83aa711929126a6a205529c99b741bec3c07774c1401b4f9274e"
+    },
+    "metreon:2026-09-29+18:00": {
+      "date": "2026-09-29",
+      "status": "available",
+      "theater": "AMC Metreon 16 (SF)",
+      "theater_key": "metreon",
+      "time": "6:00p",
+      "title": "The Odyssey (2026)",
+      "url": "https://tickets.fandango.com/transaction/ticketing/mobile/jump.aspx?sdate=2026-09-29%2B18%3A00&from=mov_det_showtimes&source=MobileWeb&mid=241386&tid=aanem&dfam=webbrowser&showtimehashcode=v2-61538a51b4edba89f5c0ce5e3481deacf7d588cbfd32a623dc1a60db56e3fd8b"
+    },
+    "metreon:2026-09-29+22:00": {
+      "date": "2026-09-29",
+      "status": "available",
+      "theater": "AMC Metreon 16 (SF)",
+      "theater_key": "metreon",
+      "time": "10:00p",
+      "title": "The Odyssey (2026)",
+      "url": "https://tickets.fandango.com/transaction/ticketing/mobile/jump.aspx?sdate=2026-09-29%2B22%3A00&from=mov_det_showtimes&source=MobileWeb&mid=241386&tid=aanem&dfam=webbrowser&showtimehashcode=v2-a86cfc951055db38bfaf6806caf58b0e627bc682bfe6b072c5cd8f860029b06a"
     }
   },
   "version": 1
