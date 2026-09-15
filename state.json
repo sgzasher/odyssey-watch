@@ -1,26 +1,8 @@
 {
   "consecutive_failures": 0,
-  "last_run": "2026-09-14T22:39:50+00:00",
+  "last_run": "2026-09-15T01:13:33+00:00",
   "seeded": true,
   "showtimes": {
-    "hacienda:2026-09-14+18:10": {
-      "date": "2026-09-14",
-      "status": "available",
-      "theater": "Regal Hacienda Crossings (Dublin)",
-      "theater_key": "hacienda",
-      "time": "6:10p",
-      "title": "The Odyssey (2026)",
-      "url": "https://tickets.fandango.com/transaction/ticketing/mobile/jump.aspx?sdate=2026-09-14%2B18%3A10&from=mov_det_showtimes&source=MobileWeb&mid=241386&tid=aaopk&dfam=webbrowser&showtimehashcode=v2-ab3e1dbbebbfc3d8cec30c52a8e0a769164784ba9fcb0042b12699c8ad33edae"
-    },
-    "hacienda:2026-09-14+22:10": {
-      "date": "2026-09-14",
-      "status": "available",
-      "theater": "Regal Hacienda Crossings (Dublin)",
-      "theater_key": "hacienda",
-      "time": "10:10p",
-      "title": "The Odyssey (2026)",
-      "url": "https://tickets.fandango.com/transaction/ticketing/mobile/jump.aspx?sdate=2026-09-14%2B22%3A10&from=mov_det_showtimes&source=MobileWeb&mid=241386&tid=aaopk&dfam=webbrowser&showtimehashcode=v2-3e406cc5f4154889d96d1d458bb2eb7d1b822097f6bb898188ed7b09216f28ba"
-    },
     "hacienda:2026-09-15+10:10": {
       "date": "2026-09-15",
       "status": "available",
@@ -641,6 +623,15 @@
       "time": "10:00p",
       "title": "The Odyssey (2026)",
       "url": "https://tickets.fandango.com/transaction/ticketing/mobile/jump.aspx?sdate=2026-09-22%2B22%3A00&from=mov_det_showtimes&source=MobileWeb&mid=241386&tid=aanem&dfam=webbrowser&showtimehashcode=v2-0ae791016335a17ec4b98709e68d113db92024be661959472d3d58c30b226eb6"
+    },
+    "metreon:2026-09-23+10:00": {
+      "date": "2026-09-23",
+      "status": "available",
+      "theater": "AMC Metreon 16 (SF)",
+      "theater_key": "metreon",
+      "time": "10:00a",
+      "title": "The Odyssey (2026)",
+      "url": "https://tickets.fandango.com/transaction/ticketing/mobile/jump.aspx?sdate=2026-09-23%2B10%3A00&from=mov_det_showtimes&source=MobileWeb&mid=241386&tid=aanem&dfam=webbrowser&showtimehashcode=v2-e03c09c0b9002c7ac5928cf8a8e4ba1b6d930015d84179095d5575757998eb1c"
     },
     "metreon:2026-09-23+14:00": {
       "date": "2026-09-23",
