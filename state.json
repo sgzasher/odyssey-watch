@@ -1,53 +1,7 @@
 {
   "consecutive_failures": 0,
-  "last_run": "2026-09-30T20:36:46+00:00",
+  "last_run": "2026-10-01T00:24:38+00:00",
   "seeded": true,
-  "showtimes": {
-    "hacienda:2026-09-30+14:10": {
-      "date": "2026-09-30",
-      "status": "available",
-      "theater": "Regal Hacienda Crossings (Dublin)",
-      "theater_key": "hacienda",
-      "time": "2:10p",
-      "title": "The Odyssey (2026)",
-      "url": "https://tickets.fandango.com/transaction/ticketing/mobile/jump.aspx?sdate=2026-09-30%2B14%3A10&from=mov_det_showtimes&source=MobileWeb&mid=241386&tid=aaopk&dfam=webbrowser&showtimehashcode=v2-8407ef6496e562b3fa40e5cb6c9c8b8ade17cc64d994ad06c42cc9b8afe86ff9"
-    },
-    "hacienda:2026-09-30+18:10": {
-      "date": "2026-09-30",
-      "status": "available",
-      "theater": "Regal Hacienda Crossings (Dublin)",
-      "theater_key": "hacienda",
-      "time": "6:10p",
-      "title": "The Odyssey (2026)",
-      "url": "https://tickets.fandango.com/transaction/ticketing/mobile/jump.aspx?sdate=2026-09-30%2B18%3A10&from=mov_det_showtimes&source=MobileWeb&mid=241386&tid=aaopk&dfam=webbrowser&showtimehashcode=v2-19a798d3ee006286f9e5d06e6d7e4d89862c05d1c2decd221bec5bc730a03b7d"
-    },
-    "hacienda:2026-09-30+22:10": {
-      "date": "2026-09-30",
-      "status": "available",
-      "theater": "Regal Hacienda Crossings (Dublin)",
-      "theater_key": "hacienda",
-      "time": "10:10p",
-      "title": "The Odyssey (2026)",
-      "url": "https://tickets.fandango.com/transaction/ticketing/mobile/jump.aspx?sdate=2026-09-30%2B22%3A10&from=mov_det_showtimes&source=MobileWeb&mid=241386&tid=aaopk&dfam=webbrowser&showtimehashcode=v2-66cecbf2184fab76eae63f7ece82c8c070a67d9d3d7cddd4daa9d95540b9d7b5"
-    },
-    "metreon:2026-09-30+18:00": {
-      "date": "2026-09-30",
-      "status": "available",
-      "theater": "AMC Metreon 16 (SF)",
-      "theater_key": "metreon",
-      "time": "6:00p",
-      "title": "The Odyssey (2026)",
-      "url": "https://tickets.fandango.com/transaction/ticketing/mobile/jump.aspx?sdate=2026-09-30%2B18%3A00&from=mov_det_showtimes&source=MobileWeb&mid=241386&tid=aanem&dfam=webbrowser&showtimehashcode=v2-e01081d2790cb10bb9cc294922d3a21dd1d02b0f140fc0fb9a3232d0932d185d"
-    },
-    "metreon:2026-09-30+22:00": {
-      "date": "2026-09-30",
-      "status": "available",
-      "theater": "AMC Metreon 16 (SF)",
-      "theater_key": "metreon",
-      "time": "10:00p",
-      "title": "The Odyssey (2026)",
-      "url": "https://tickets.fandango.com/transaction/ticketing/mobile/jump.aspx?sdate=2026-09-30%2B22%3A00&from=mov_det_showtimes&source=MobileWeb&mid=241386&tid=aanem&dfam=webbrowser&showtimehashcode=v2-4728dc8ec52c8bb79fa7542a707ea73b99d1c357db6dbb14cdf93080e5aa60e3"
-    }
-  },
+  "showtimes": {},
   "version": 1
 }
